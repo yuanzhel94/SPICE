@@ -97,4 +97,4 @@ pef, rX, nef, run_status, n_parc, p_naive, fc_para1, fc_para2 = spice.effective_
 ## Documentation
 
 For full documentation and additional examples, see
-[SPICE documentation](https://esse-effective-sample-size-estimation.readthedocs.io/en/latest/index.html)
+[SPICE documentation](https://brainspice.readthedocs.io/en/latest/index.html)
