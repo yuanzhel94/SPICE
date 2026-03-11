@@ -1,9 +1,0 @@
-README.md
-setup.py
-brainspice.egg-info/PKG-INFO
-brainspice.egg-info/SOURCES.txt
-brainspice.egg-info/dependency_links.txt
-brainspice.egg-info/requires.txt
-brainspice.egg-info/top_level.txt
-spice/__init__.py
-spice/spice.py
